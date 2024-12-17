@@ -4,6 +4,8 @@
 # Ignore everything in the Samples and Backup directories, but keep the directories themselves
 Samples/*
 Backup/*
+!Samples/.gitkeep
+!Backup/.gitkeep
 
 # Ignore the Ableton Project Info directory and its contents
 Ableton Project Info/
