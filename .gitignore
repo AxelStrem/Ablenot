@@ -1,0 +1,9 @@
+# Ignore all .als files
+*.als
+
+# Ignore everything in the Samples and Backup directories, but keep the directories themselves
+Samples/*
+Backup/*
+
+# Ignore the Ableton Project Info directory and its contents
+Ableton Project Info/
